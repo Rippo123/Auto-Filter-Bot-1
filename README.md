@@ -60,13 +60,6 @@ or
 
 * /filterstats  -  Check connected channels and number of filters.
 
-##Credits
-
-Thanks to [Alphantime Bot Support](https://telegram.dog/alphantimebotsupport) and [L LAWLIET](https://telegram.dog/alphantime) for the code.
-
-## Any bugs or errors or suggestions, report at [Alphantime Bot Support](https://telegram.dog/alphantimebotsupport)
-
-
 ## Installation
 
 ### Deploy to Heroku
