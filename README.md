@@ -63,7 +63,7 @@ or
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/joefreddiecheeran/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rippo123/Auto-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
