@@ -56,7 +56,7 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : ALPHA - Auto Filter Bot </b>
     
-⭕️<b>Creater :</b> @alphantime
+⭕️<b>Creater :</b> @The_Bad_Bunny_444
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
